@@ -17,8 +17,8 @@ import org.apache.pdfbox.text.PDFTextStripper;
 public class DenWreeder {
 
     TextToSpeech service = null;
-    private String user = "51e7a55e-ee0e-437f-b6a7-14c8626a6ec5";
-    private String pass = "flHi3JruVnK4";
+    private String user = "user";
+    private String pass = "pass";
     //jrkaise2
     //WqOTkKZvfpTaR6Q_fr1gYiaNH_nXr42wMGly6DGumfkL
 
